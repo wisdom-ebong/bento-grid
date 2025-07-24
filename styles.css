@@ -485,7 +485,7 @@ img {
 
     .third-item img {
         max-width: 100%;
-        height: 70%;
+        min-height: 70%;
     }
 
     .third-item h3 {
@@ -505,6 +505,7 @@ img {
     /* This is the fourth div item */
     .fourth-item {
         max-width: 100%;
+        min-height: auto;
         order: 8;
     }
 

@@ -25,7 +25,7 @@ body {
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, auto);
     grid-gap: 10px;
-    max-height: auto;
+    max-height: 100vh;
 }
 
 .container div{
@@ -211,7 +211,8 @@ img {
 }
 
 .eighth-item img {
-    width: 100%;
+    min-width: 50%;
+    height: 100%;
 }
 
 .eighth-item h3 {

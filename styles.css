@@ -480,7 +480,6 @@ img {
     /* This is the third div item */
     .third-item {
         max-width: 100%;
-        min-height: 30vh;
         order: 4;
     }
 
@@ -506,7 +505,6 @@ img {
     /* This is the fourth div item */
     .fourth-item {
         max-width: 100%;
-        min-height: 30vh;
         order: 8;
     }
 
